@@ -1,3 +1,3 @@
 public interface HasPropeller {
-    public int getNumberOfPropellers();
+    int getNumberOfPropellers();
 }

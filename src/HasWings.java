@@ -1,3 +1,3 @@
 public interface HasWings {
-    public int getNumberOfWings();
+    int getNumberOfWings();
 }
