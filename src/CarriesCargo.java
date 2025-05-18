@@ -1,3 +1,3 @@
 public interface CarriesCargo {
-    public String loadCargo();
+    String loadCargo();
 }

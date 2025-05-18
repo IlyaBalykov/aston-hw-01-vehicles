@@ -1,3 +1,3 @@
 public interface HasWheels {
-    public int getNumberOfWheels();
+    int getNumberOfWheels();
 }
